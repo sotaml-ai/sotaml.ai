@@ -2,6 +2,45 @@
 title: "Mysite"
 ---
 
+<!-- 
+
+polls of state of the art on each part of ml area: rotten tomatoes of the AI models (expert opnion: how reproducible? Code shared? Metrics good? vs. practitioner / general public opinion)
+
+Areas of Machine Learning / AI applications include
+(From history to state of the art)
+
+* Audio / signal processing (SVS, TTS, ASR, Music genenration)
+* Computer Vision
+* Recommendation systems
+* Reinforcement learning
+* Natural language processing
+* Drug discovery, genetics, and proteinomics (e.g. Graph neural networks)
+* Robotics and Control theory
+* Tabular data modeling (e.g. tree based models)
+* Time Series Forecasting / Survival Analaysis (e.g. Churn models)
+* Mathematical Optimization (maximum entorpy theories, ADAM optimizer, gradient descent, forward forward)
+* Fairness, Bias, and Model interpretability
+* AI Security and Alignment
+
+
+# Types of models
+* Diffusion generative
+* GAN
+* Transformer sequential
+* Policy / value gradient for reinforceent learning
+
+# Book recommendations
+
+# Course recommendations
+
+# News (Twitter, Facebook, Instagram, LLM summarized? Linked)
+What do people discuss about this on the web regarding AI? As a word cloud. Seeing from the hub users on twitter like Yann Lecun and then look for secondary connections / comments.
+
+# Arxiv Paper of the day
+
+# Forum feature
+-->
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
