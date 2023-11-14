@@ -2,13 +2,21 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: auto
+
 website:
   title: "State of the Art Machine Learning"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: data.qmd
+        text: Datasets
+      - href: model.qmd
+        text: Models
+      - href: about.qmd
+        text: About
 
 format:
   html:
